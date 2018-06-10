@@ -14,7 +14,7 @@ Have fun..
 
 I'll be right back with other CTFs 
 
-Hint :Think what can be inside the .ogg file that will lead you to the solution.
+Hint :Think what can be inside the .wav file that will lead you to the solution.
 
 Author: Meriton Kryeziu.
 
